@@ -18,7 +18,7 @@
           ]
         }]
       ],
-      "cflags": [ "-O0", "-std=c++11" ],
+      "cflags": [ "-O0", "-std=c++0x" ],
       "xcode_settings": {
         "OTHER_CFLAGS": [ "-O0" ]
       },
